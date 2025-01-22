@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://rabbit-world.github.io">
-    <img src="../svg-animation/space-logo.svg" />
+    <img src="https://github.com/Rabbit-World/svg-animation/raw/main/space-logo.svg" />
   </a>
 </div>
 # 💫 About Me:
