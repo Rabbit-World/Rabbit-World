@@ -4,7 +4,8 @@
     <img src="https://github.com/Rabbit-World/svg-animation/raw/main/space-logo.svg" />
   </a>
 </div>
-![Snake animation](https://raw.githubusercontent.com/Rabbit-World/Rabbit-World/fde9f858ca77f8bbd38a6c8ca8c898bb0e48ce8d/github-contribution-grid-snake.svg)
+ <img src="https://raw.githubusercontent.com/Rabbit-World/Rabbit-World/fde9f858ca77f8bbd38a6c8ca8c898bb0e48ce8d/github-contribution-grid-snake.svg" />
+  </a>
 
 🔭 I'm currently working on Full Stack Development Projects <br>👯 I'm looking to collaborate on Innovative Tech Solutions <br>🤝 I'm looking for help with Advanced Cloud Architecture <br>🌱 I'm currently learning Python, JavaScript, React, Node.js, Docker <br>💬 Ask me about Web Development, Database Design, API Integration <br>⚡ Fun fact: I can code in 5 different programming languages!
 
