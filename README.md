@@ -1,14 +1,13 @@
 # 💫 About Me:
-<div align="center">
-  <a href="https://rabbit-world.github.io">
-    <img src="https://github.com/Rabbit-World/svg-animation/raw/main/space-logo.svg" />
-  </a>
-</div>
- <img src="https://raw.githubusercontent.com/Rabbit-World/Rabbit-World/fde9f858ca77f8bbd38a6c8ca8c898bb0e48ce8d/github-contribution-grid-snake.svg" />
-  </a>
+<div align="center"><img src="https://raw.githubusercontent.com/Rabbit-World/Rabbit-World/fde9f858ca77f8bbd38a6c8ca8c898bb0e48ce8d/github-contribution-grid-snake.svg" /></div>
+<div align="center"><a href="https://rabbit-world.github.io"><img src="https://github.com/Rabbit-World/svg-animation/raw/main/space-logo.svg" /></a></div>
 
-🔭 I'm currently working on Full Stack Development Projects <br>👯 I'm looking to collaborate on Innovative Tech Solutions <br>🤝 I'm looking for help with Advanced Cloud Architecture <br>🌱 I'm currently learning Python, JavaScript, React, Node.js, Docker <br>💬 Ask me about Web Development, Database Design, API Integration <br>⚡ Fun fact: I can code in 5 different programming languages!
-
+🔭 I'm currently working on Full Stack Development Projects <br>
+👯 I'm looking to collaborate on Innovative Tech Solutions <br>
+🤝 I'm looking for help with Advanced Cloud Architecture <br>
+🌱 I'm currently learning Python, JavaScript, React, Node.js, Docker <br>
+💬 Ask me about Web Development, Database Design, API Integration <br>
+⚡ Fun fact: I can code in 5 different programming languages!
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Rabbit-World) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Rabbit-World) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Rabbit-World) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rabbit-World) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Rabbit-World) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rabbit-World) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Rabbit-World) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Rabbit-World) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Rabbit-World) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Rabbit-World) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Rabbit-World) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Rabbit-World) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Rabbit-World) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rabbit-World) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Rabbit-World) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Rabbit-World) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@Rabbit-World) 
